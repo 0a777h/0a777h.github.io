@@ -6,5 +6,5 @@ permalink: /diary
 
 ## diary
 
-: [2020.02.01](/2020.02.01.post)   
+: [2020.02.01](/_post/post)   
 
