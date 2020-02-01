@@ -1,5 +1,5 @@
 ---
-title: /
+title: /root
 layout: home
 permalink: /
 ---
@@ -7,8 +7,8 @@ permalink: /
 ## Memory Dump
 
 + .text  
-	- *.asm  
-	- *.cpp  
+    - *.asm  
+    - *.cpp  
 + .data  
 	- diary  
 	- lib  
