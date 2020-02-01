@@ -1,5 +1,5 @@
 ---
-title: C:\Users\0a777h\
+title: /
 layout: home
 permalink: /
 ---
