@@ -7,7 +7,7 @@ permalink: /
 ## Memory Dump
 
 + .text  
-: *.asm  
+: [*.asm](0a777h.github.io/asm)   
 : *.cpp  
 + .data  
 : diary  
