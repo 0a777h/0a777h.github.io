@@ -1,7 +1,18 @@
 ---
-title: /
+title: C:\Users\
 layout: home
-permalink: /
+permalink: C:\Users\
 ---
 
-## test
+## Memory Dump
+
++ .text
+	- *.asm
+	- *.cpp
++ .data
+	- diary
+	- lib
++ .rsrc
+	- pegasus
+	- xdv
+	- zerox
