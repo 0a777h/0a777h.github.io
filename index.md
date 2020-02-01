@@ -7,11 +7,11 @@ permalink: /
 ## Memory Dump
 
 + .text  
-: [*.asm](0a777h.github.io/asm)   
-: *.cpp  
+: [*.asm](/asm)   
+: [*.cpp](/cpp)   
 + .data  
-: diary  
-: lib  
+: [diary](/diary)   
+: [lib](/lib)   
 + .rsrc  
 : pegasus  
 : xdv  
