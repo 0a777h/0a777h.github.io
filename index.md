@@ -1,18 +1,20 @@
 ---
-title: C:\Users\
+title: C:\Users\0a777h\
 layout: home
-permalink: C:\Users\
+permalink: /
 ---
 
 ## Memory Dump
 
-+ .text
-	- *.asm
-	- *.cpp
-+ .data
-	- diary
-	- lib
-+ .rsrc
-	- pegasus
-	- xdv
-	- zerox
++ .text  
+	- *.asm  
+	- *.cpp  
++ .data  
+	- diary  
+	- lib  
++ .rsrc  
+	- pegasus  
+	- xdv  
+	- zerox  
+	
+	
