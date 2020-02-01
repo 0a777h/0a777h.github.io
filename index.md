@@ -7,14 +7,14 @@ permalink: /
 ## Memory Dump
 
 + .text  
-    - *.asm  
-    - *.cpp  
+: *.asm  
+: *.cpp  
 + .data  
-	- diary  
-	- lib  
+: diary  
+: lib  
 + .rsrc  
-	- pegasus  
-	- xdv  
-	- zerox  
+: pegasus  
+: xdv  
+: zerox  
 	
 	
