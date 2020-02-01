@@ -11,6 +11,7 @@
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
 
-url : https://0a777h.github.io/
 plugins:
   - jekyll-seo-tag
+
+url: https://0a777h.github.io
