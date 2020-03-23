@@ -6,7 +6,7 @@ header_pages:
   - index.md
   #- text.md
 
-footer: 'link : <a href="https://github.com/0a777h">github</a> / e-mail : 0a777h at gmail.com' 
+footer: 'link : <a href="https://github.com/0a777h">github 1</a> / <a href="https://github.com/imugee">github 2</a> / e-mail : 0a777h at gmail.com' 
 
 #style: dark # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
