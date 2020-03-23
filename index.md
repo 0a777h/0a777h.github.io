@@ -14,7 +14,10 @@ permalink: /
 : [lib](/lib)   
 + .rsrc  
 : pegasus  
-: xdv  
+-> windbg rce utils 
+: xdv 
+-> debugger & disassembly viewer [concept code]
 : zerox  
-	
+-> Self-protection [concept code]  
+ 	
 	
